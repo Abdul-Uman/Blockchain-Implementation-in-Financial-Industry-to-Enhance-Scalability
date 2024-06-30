@@ -1,0 +1,15 @@
+python 3.7 version installation
+pip install urllib3==1.21.1
+pip install web3==4.7.2
+pip install Django==2.1.7
+pip install numpy==1.19.2
+pip install ipfs-api==0.2.3
+pip install websockets==10.4
+
+go inside 'Blockchain/FinancialBlockchain' folder 
+ and then double click on 'Start_IPFS.bat' t
+o start IPFS server 
+and then double click on 'run.bat' file
+to start python server  and then 
+run code by following screen shots
+
